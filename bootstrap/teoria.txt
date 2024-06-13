@@ -1,0 +1,3 @@
+Bootstrap: libreria de estilos CSS, dota a los sitios web de responsividad de
+
+CDN (Content Delivery Network): Red de distribucion de contenidos.
